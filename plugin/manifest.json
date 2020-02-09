@@ -1,12 +1,22 @@
 {
-    "name": "Sample",
-    "version": "1.0.0",
-    "manifest_version": 2,
-    "description": "Sample Chrome Extension",
-    "content_scripts": [{
-      "matches": ["https://www.pinterest.jp/*"],
-      "js": [
-        "content.js"
-      ]
-    }]
+  "name": "GreedPredator",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "ピンタレストで今開いてる画像をすべて保存する",
+  "content_scripts": [{
+    "matches": ["https://www.pinterest.jp/*"],
+    "js": [
+      "content.js"
+    ]
+  }],
+
+  "permissions": ["tabs"],
+  "browser_action": {
+      "default_icon": "icons/icon_32.png",
+      "default_title": "action_button_sample",
+      "default_popup": "popup.html"
+  },
+  "icons": {
+  "48": "icons/icon_32.png"
   }
+}

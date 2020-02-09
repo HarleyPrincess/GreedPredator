@@ -1,25 +1,25 @@
-�J����
+開発中
 
-MD�L�@�����i�v�l�����j������W�X�Ə���
-�C���������炿����MD�L�@�̍�@�Ɋ�Â��ď���
+MD記法しらん（思考放棄）だから淡々と書く
+気が向いたらちゃんとMD記法の作法に基づいて書く
 
-�� �J����
+■ 開発環境
 
 GoogleChorme
 VSCode
 
-�� �Q�l����
+■ 参考資料
 
 https://qiita.com/RyBB/items/32b2a7b879f21b3edefc
 https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/match
+https://qiita.com/guru_taka/items/37a90766f4f845e963e5
 
+■VSCode設定
 
-��VSCode�ݒ�
+・VSCodeで検索して出たページからVSCode落とす。全部初期設定でいい
+・プラグインで日本語化（英語読めるならしなくていい）
+・あとは適当に「VSCode プラグイン おすすめ」で気になったプラグインを入れる
+　（個人的に括弧のネストを色で示してくれるプラグインがおすすめ）
 
-�EVSCode�Ō������ďo���y�[�W����VSCode���Ƃ��B�S�������ݒ�ł���
-�E�v���O�C���œ��{�ꉻ�i�p��ǂ߂�Ȃ炵�Ȃ��Ă����j
-�E���Ƃ͓K���ɁuVSCode �v���O�C�� �������߁v�ŋC�ɂȂ����v���O�C��������
-�@�i�l�I�Ɋ��ʂ̃l�X�g��F�Ŏ����Ă����v���O�C�����������߁j
-
-��GoogleChorme�Ŋm�F���@
+■GoogleChormeで確認方法
 
